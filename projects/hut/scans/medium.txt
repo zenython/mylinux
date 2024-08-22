@@ -1,0 +1,441 @@
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] hirensbootcd.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] narchlinux.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] releases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dave.chimera.dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] debian.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] security.debian.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] ncpan.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] libreelec.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] nubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] archlinux.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] manjaro.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] kernel.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.cpan.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.cpan.mirrors.uk2.net:21
+[[92mdocker-compose-config[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.vps.net/docker-compose.yml
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://au.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chi-legacy-app.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chi-legacy-app.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://atl-d-8.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://blog.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest.chimera.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://shared.cpanel.chimera.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest.chimera.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://nscerttest2.thg.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://nscerttest2.thg.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://au.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.hqhair.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.hqhair.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ams-a-4.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ams-a-4.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://shared.cpanel.chimera.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://ssl.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://ssl.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.thehut.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.thehut.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://atl-d-8.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://blog.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://admin-chi-old-app.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://archlinux.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://admin-chi-old-app.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://archlinux.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ca.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://blog.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://thcdn-origin.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] http://thcdn-origin.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://admin-chi-refresh.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://admin-chi-refresh.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.mybag.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://altitude.www.mybag.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ca.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://blog.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chi.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chi.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cn.mybag.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cn.mybag.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cn.growgorgeous.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cn.growgorgeous.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.cpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.westhost.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cms.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cms.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.cpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.westhost.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimera.dev.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://chimail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel37.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel38.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel38.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel41.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel41.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel46.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel46.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel5.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel5.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel52.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel52.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel56.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel7.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel56.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel7.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://eve.network.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://de.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://fr-ca.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://eve.network.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://fr-ca.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://de.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dave.chimera.dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.ca.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.ca.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.cpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://debian.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.cpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.cn.growgorgeous.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.cn.growgorgeous.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.cn.mybag.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.cn.mybag.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.fr-ca.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dave.chimera.dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://dev.nreleases.ubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://debian.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.fr.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.fr-ca.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.nl.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.fr.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.no.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.nl.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.nz.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.nz.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.no.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.si.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.si.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.ameliorate.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.espaskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.espaskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.ameliorate.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.exantediet.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.illamasqua.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.allsole.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.allsole.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.exantediet.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.beautyexpert.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.espaskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.beautyexpert.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.illamasqua.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.us.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.coggles.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.coggles.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.dermstore.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.dermstore.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.espaskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.eyeko.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.exantediet.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.growgorgeous.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.glossybox.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.eyeko.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.exantediet.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.glossybox.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.growgorgeous.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.illamasqua.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.illamasqua.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.lookfantastic.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://hirensbootcd.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://hirensbootcd.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mankind.co.uk [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mybag.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mankind.co.uk [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mioskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.powerman.co.uk [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mybag.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.mioskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.myprotein.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.powerman.co.uk [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://images-startersite.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://images-startersite.uk2.net [[96m"406"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.skinstore.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://horizon-api.www.skinstore.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel3.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel4.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://kernel.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel4.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel3.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel6.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://libreelec.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://kernel.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://libreelec.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel6.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.dev.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mi.growgorgeous.com [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mi.ameliorate.com [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mi.ameliorate.com [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mi.growgorgeous.com [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://manjaro.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://manjaro.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mymail.westhost.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://narchlinux.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://mymail.westhost.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ncpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://ncpan.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://narchlinux.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.ams.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nz.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nz.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.dc5.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.ams.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.dc5.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.fr7.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.fr7.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.tyo.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.tyo.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.fr7.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.frk.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.dc5.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.slc.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.frk.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.dc5.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.frk.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.slc.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.ams.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pregnancy-guide.mioskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pregnancy-guide.mioskincare.com [[96m"403"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://sbrands.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.tyo.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.tyo.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://platform.moretrees.eco [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.frk.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://platform.moretrees.eco [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.slc.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nubuntu.mirrors.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.fr7.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://sbrands.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.ams.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://returns.matalan.co.uk [[96m"302"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://returns.matalan.co.uk [[96m"302"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.slc.hosting.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nl.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp3.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp3.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://releases.ubuntu.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp4.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://slc-f-2.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://sitegrinder.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://slc-f-2.cloudsites.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://no.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://nl.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://sitegrinder.midphase.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://no.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp4.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://store.matalan.co.uk [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.vps.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.uk2.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.vps.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://store.matalan.co.uk [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.midphase.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.westhost.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://tracking.matalan.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://tracking.matalan.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.exantediet.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.exantediet.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.midphase.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.uk2.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.westhost.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.illamasqua.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://releases.ubuntu.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.illamasqua.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://webmail-2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://webmail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://wpadmin.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://webmail-2.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://webmail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.beautyexpert.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.allsole.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.allsole.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://security.debian.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://wpadmin.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.beautyexpert.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://security.debian.mirrors.uk2.net [[96m"404"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.exantediet.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.glossybox.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.hqhair.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.ameliorate.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.exantediet.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.mail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.eyeko.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.espaskincare.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.kingstreettownhouse.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.hqhair.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.glossybox.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.lookfantastic.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.halecountryclub.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.midphase.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.midphase.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.kingstreettownhouse.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.growgorgeous.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.growgorgeous.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.halecountryclub.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.skinstore.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.skinstore.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.powerman.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.powerman.co.uk [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.myprotein.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.mail.uk2.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.uk2.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.uk2.net [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.thg.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.myvitamins.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.eyeko.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.moretrees.eco [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.westhost.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.westhost.com [[96m"405"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.vps.net [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-3-1[0m:[1;92mXSD schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.myvitamins.com [[96m"200"[0m]
+[[92mASVS-4-0-3-V13-2-2[0m:[1;92mJSON schema validation does not take place[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.moretrees.eco [[96m"200"[0m]
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://shared.cpanel.chimera.dev.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest2.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest.chimera.dev.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://atl-d-8.cloudsites.vps.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel38.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://archlinux.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel52.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel56.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel41.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel46.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel5.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel7.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://eve.network.thg.com
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://hirensbootcd.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel6.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://kernel.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel2.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://libreelec.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://manjaro.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel4.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://sitegrinder.midphase.com
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp4.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://security.debian.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp3.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://slc-f-2.cloudsites.vps.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel3.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://shared.cpanel.chimera.dev.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest.chimera.dev.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] http://cpaneltest2.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel46.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://cpanel7.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://archlinux.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://atl-d-8.cloudsites.vps.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://hirensbootcd.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://eve.network.thg.com
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://manjaro.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://kernel.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://lon-cpanel3.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://libreelec.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://security.debian.mirrors.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp4.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://shared-wp3.uk2.net
+[[92mCVE-2017-7529[0m] [[94mhttp[0m] [[33mmedium[0m] https://slc-f-2.cloudsites.vps.net
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://debian.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://archlinux.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://hirensbootcd.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://kernel.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://libreelec.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://manjaro.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://security.debian.mirrors.uk2.net [[96m"Index of"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.powerman.co.uk [[96m"EAAAQQQQAABBCpWwBdz6cOtd79UsQAMHAEEEEAAgTIIkOBeBlSaRAABBBBAAIHEC"[0m,[96m"EAAAQQQQCDCAp2LThvj5bvPEbEf1qT2CdYavSAwcVntfVtAjOgQTdOwuSs3BL1J5"[0m,[96m"EAAAQSKEZCrx6W7FjTcLNa7XqcIritmHZZBAAEEEEAAAQQQQAABBBBAAAEEEEAAA"[0m,[96m"EAAAQQQQACBQQiQ4D4INFZBAAEEEEAAgcAF6ifPvMpa84XAOx5qhyK9KWuOeWh5y"[0m,[96m"EAAAQQQQACBsgqItf9b1g4G0rjIejdD00BWYVkEEEAAAQQQQAABBBBAAAEEEEAAg"[0m,[96m"EAAAQQQQKC0AuNmzUrXTz7jvPrJM9akrPm18cyxpe0h3NZE5DuPPtjySrhR0DsCC"[0m,[96m"EAAAQQQCFqgKugO6Q8BBBBAAAEEEIijQG3Tmvs0EfwUY7xbjLGT4jiGPWPWhPe0i"[0m,[96m"EAAAQQQQAABBBBAAAEEEECgaIFTpsw4skfk9JTxTtdjWhM1YfxIre9eVXQDQS0o8"[0m,[96m"EAAAQQQQAABBBBAAAEE4iiwqZCenbLmsDjF7htpbm1tzccpZmJFAAEEEEBgqAIku"[0m,[96m"EAAAQQqV4AE98rd9owcAQQQQACBOAk0NjZWbfFr7tNjjVPiFPf2WOW69uUtl8Qvb"[0m,[96m"EAAAQQQiI2ANeb9sQk2oYGKlSvaly3bnNDhMSwEEEAAAQQCESDBPRBmOkEAAQQQQ"[0m,[96m"EAAAQQQQAABBBBAAIG9CojctqZt6fy9vsaTCCCAAAIIIFAygaqStURDCCCAAAIII"[0m,[96m"EAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQSI7C1kJ6p1dsPi9OAr"[0m,[96m"EAAAQQQQAABBBAor8C4WbPSsrUwVyuil7ejUrYu0t7edve6UjZJWwgggAACCERVg"[0m,[96m"EAAAQQQqHiBzYWaOZ61h8UKwsqPV65c3BWrmAkWAQQQQACBEgmQ4F4iSJpBAAEEE"[0m,[96m"EAAAQQQQAABBBCIk4AnXtP2QhTxidra1C3xiZZIEUAAAQQQGLwACe6Dt2NNBBBAA"[0m,[96m"EAAAQQQQAABBBBAAIEKEdh440mjawvee0W89xorU3Nm63s0ebvOiCvCvj2FfedPR"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.hqhair.com [[96m"EAAAQQqV4AE98rd9owcAQQQQACBOAk0NjZWbfFr7tNjjVPiFPf2WOW69uUtl8Qvb"[0m,[96m"EAAAQQQiI2ANeb9sQk2oYGKlSvaly3bnNDhMSwEEEAAAQQCESDBPRBmOkEAAQQQQ"[0m,[96m"secret"[0m,[96m"EAAAQSKEZCrx6W7FjTcLNa7XqcIritmHZZBAAEEEEAAAQQQQAABBBBAAAEEEEAAA"[0m,[96m"EAAAQQQQACBsgqItf9b1g4G0rjIejdD00BWYVkEEEAAAQQQQAABBBBAAAEEEEAAg"[0m,[96m"EAAAQQQQKC0AuNmzUrXTz7jvPrJM9akrPm18cyxpe0h3NZE5DuPPtjySrhR0DsCC"[0m,[96m"EAAAQQQQCDCAp2LThvj5bvPEbEf1qT2CdYavSAwcVntfVtAjOgQTdOwuSs3BL1J5"[0m,[96m"EAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQSI7C1kJ6p1dsPi9OAr"[0m,[96m"EAAAQQQqHiBzYWaOZ61h8UKwsqPV65c3BWrmAkWAQQQQACBEgmQ4F4iSJpBAAEEE"[0m,[96m"EAAAQQQCFqgKugO6Q8BBBBAAAEEEIijQG3Tmvs0EfwUY7xbjLGT4jiGPWPWhPe0i"[0m,[96m"EAAAQQQQAABBBBAAIG9CojctqZt6fy9vsaTCCCAAAIIIFAygaqStURDCCCAAAIII"[0m,[96m"EAAAQQQQACBQQiQ4D4INFZBAAEEEEAAgcAF6ifPvMpa84XAOx5qhyK9KWuOeWh5y"[0m,[96m"EAAAQQQQAABBCpWwBdz6cOtd79UsQAMHAEEEEAAgTIIkOBeBlSaRAABBBBAAIHEC"[0m,[96m"EAAAQQQQAABBBBAAAEEEECgaIFTpsw4skfk9JTxTtdjWhM1YfxIre9eVXQDQS0o8"[0m,[96m"EAAAQQQQAABBBCIk4AnXtP2QhTxidra1C3xiZZIEUAAAQQQGLwACe6Dt2NNBBBAA"[0m,[96m"EAAAQQQQAABBBBAAIEKEdh440mjawvee0W89xorU3Nm63s0ebvOiCvCvj2FfedPR"[0m,[96m"EAAAQQQQAABBBAor8C4WbPSsrUwVyuil7ejUrYu0t7edve6UjZJWwgggAACCERVg"[0m,[96m"EAAAQQQQAABBBBAAAEE4iiwqZCenbLmsDjF7htpbm1tzccpZmJFAAEEEEBgqAIku"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://us.lookfantastic.com [[96m"apierre-cosmetics"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.beautyexpert.com [[96m"EAAAQQQQACBQQiQ4D4INFZBAAEEEEAAgcAF6ifPvMpa84XAOx5qhyK9KWuOeWh5y"[0m,[96m"EAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQSI7C1kJ6p1dsPi9OAr"[0m,[96m"EAAAQQQQAABBBAor8C4WbPSsrUwVyuil7ejUrYu0t7edve6UjZJWwgggAACCERVg"[0m,[96m"EAAAQSKEZCrx6W7FjTcLNa7XqcIritmHZZBAAEEEEAAAQQQQAABBBBAAAEEEEAAA"[0m,[96m"EAAAQQQiI2ANeb9sQk2oYGKlSvaly3bnNDhMSwEEEAAAQQCESDBPRBmOkEAAQQQQ"[0m,[96m"EAAAQQQQAABBBBAAIG9CojctqZt6fy9vsaTCCCAAAIIIFAygaqStURDCCCAAAIII"[0m,[96m"EAAAQQqV4AE98rd9owcAQQQQACBOAk0NjZWbfFr7tNjjVPiFPf2WOW69uUtl8Qvb"[0m,[96m"EAAAQQQQKC0AuNmzUrXTz7jvPrJM9akrPm18cyxpe0h3NZE5DuPPtjySrhR0DsCC"[0m,[96m"EAAAQQQCFqgKugO6Q8BBBBAAAEEEIijQG3Tmvs0EfwUY7xbjLGT4jiGPWPWhPe0i"[0m,[96m"EAAAQQQQAABBCpWwBdz6cOtd79UsQAMHAEEEEAAgTIIkOBeBlSaRAABBBBAAIHEC"[0m,[96m"EAAAQQQQCDCAp2LThvj5bvPEbEf1qT2CdYavSAwcVntfVtAjOgQTdOwuSs3BL1J5"[0m,[96m"EAAAQQQQAABBBCIk4AnXtP2QhTxidra1C3xiZZIEUAAAQQQGLwACe6Dt2NNBBBAA"[0m,[96m"EAAAQQQQAABBBBAAIEKEdh440mjawvee0W89xorU3Nm63s0ebvOiCvCvj2FfedPR"[0m,[96m"EAAAQQQQAABBBBAAAEE4iiwqZCenbLmsDjF7htpbm1tzccpZmJFAAEEEEBgqAIku"[0m,[96m"EAAAQQQQAABBBBAAAEEEECgaIFTpsw4skfk9JTxTtdjWhM1YfxIre9eVXQDQS0o8"[0m,[96m"EAAAQQQqHiBzYWaOZ61h8UKwsqPV65c3BWrmAkWAQQQQACBEgmQ4F4iSJpBAAEEE"[0m,[96m"EAAAQQQQACBsgqItf9b1g4G0rjIejdD00BWYVkEEEAAAQQQQAABBBBAAAEEEEAAg"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.myprotein.com [[96m"EAAAQQQQAABBBAor8C4WbPSsrUwVyuil7ejUrYu0t7edve6UjZJWwgggAACCERVg"[0m,[96m"EAAAQQqV4AE98rd9owcAQQQQACBOAk0NjZWbfFr7tNjjVPiFPf2WOW69uUtl8Qvb"[0m,[96m"EAAAQQQCFqgKugO6Q8BBBBAAAEEEIijQG3Tmvs0EfwUY7xbjLGT4jiGPWPWhPe0i"[0m,[96m"EAAAQQQQAABBBBAAIG9CojctqZt6fy9vsaTCCCAAAIIIFAygaqStURDCCCAAAIII"[0m,[96m"EAAAQQQQAABBBBAAAEEEECgaIFTpsw4skfk9JTxTtdjWhM1YfxIre9eVXQDQS0o8"[0m,[96m"EAAAQQQQACBQQiQ4D4INFZBAAEEEEAAgcAF6ifPvMpa84XAOx5qhyK9KWuOeWh5y"[0m,[96m"EAAAQQQQACBsgqItf9b1g4G0rjIejdD00BWYVkEEEAAAQQQQAABBBBAAAEEEEAAg"[0m,[96m"EAAAQQQQCDCAp2LThvj5bvPEbEf1qT2CdYavSAwcVntfVtAjOgQTdOwuSs3BL1J5"[0m,[96m"EAAAQQQQAABBBCIk4AnXtP2QhTxidra1C3xiZZIEUAAAQQQGLwACe6Dt2NNBBBAA"[0m,[96m"EAAAQQQQAABBBBAAIEKEdh440mjawvee0W89xorU3Nm63s0ebvOiCvCvj2FfedPR"[0m,[96m"EAAAQQQQAABBBBAAAEE4iiwqZCenbLmsDjF7htpbm1tzccpZmJFAAEEEEBgqAIku"[0m,[96m"EAAAQQQqHiBzYWaOZ61h8UKwsqPV65c3BWrmAkWAQQQQACBEgmQ4F4iSJpBAAEEE"[0m,[96m"EAAAQSKEZCrx6W7FjTcLNa7XqcIritmHZZBAAEEEEAAAQQQQAABBBBAAAEEEEAAA"[0m,[96m"EAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQSI7C1kJ6p1dsPi9OAr"[0m,[96m"EAAAQQQQKC0AuNmzUrXTz7jvPrJM9akrPm18cyxpe0h3NZE5DuPPtjySrhR0DsCC"[0m,[96m"EAAAQQQQAABBCpWwBdz6cOtd79UsQAMHAEEEEAAgTIIkOBeBlSaRAABBBBAAIHEC"[0m,[96m"EAAAQQQiI2ANeb9sQk2oYGKlSvaly3bnNDhMSwEEEAAAQQCESDBPRBmOkEAAQQQQ"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.mybag.com [[96m"https://3affba2a1d844beeb31c54fd702eee95@"[0m]
+[[92mcredentials-disclosure-all[0m] [[94mhttp[0m] [[33mmedium[0m] https://www.lookfantastic.com [[96m"EAAAQQQQAABBBBAAIG9CojctqZt6fy9vsaTCCCAAAIIIFAygaqStURDCCCAAAIII"[0m,[96m"EAAAQQQQCDCAp2LThvj5bvPEbEf1qT2CdYavSAwcVntfVtAjOgQTdOwuSs3BL1J5"[0m,[96m"EAAAQQQQAABBBBAAAEEEEAAAQQQQAABBBBAAAEEEEAAAQQSI7C1kJ6p1dsPi9OAr"[0m,[96m"EAAAQQQQAABBBBAAIEKEdh440mjawvee0W89xorU3Nm63s0ebvOiCvCvj2FfedPR"[0m,[96m"EAAAQSKEZCrx6W7FjTcLNa7XqcIritmHZZBAAEEEEAAAQQQQAABBBBAAAEEEEAAA"[0m,[96m"EAAAQQqV4AE98rd9owcAQQQQACBOAk0NjZWbfFr7tNjjVPiFPf2WOW69uUtl8Qvb"[0m,[96m"EAAAQQQiI2ANeb9sQk2oYGKlSvaly3bnNDhMSwEEEAAAQQCESDBPRBmOkEAAQQQQ"[0m,[96m"EAAAQQQCFqgKugO6Q8BBBBAAAEEEIijQG3Tmvs0EfwUY7xbjLGT4jiGPWPWhPe0i"[0m,[96m"EAAAQQQQAABBCpWwBdz6cOtd79UsQAMHAEEEEAAgTIIkOBeBlSaRAABBBBAAIHEC"[0m,[96m"EAAAQQQQAABBBBAAAEEEECgaIFTpsw4skfk9JTxTtdjWhM1YfxIre9eVXQDQS0o8"[0m,[96m"apierre-cosmetics"[0m,[96m"EAAAQQQQAABBBBAAAEE4iiwqZCenbLmsDjF7htpbm1tzccpZmJFAAEEEEBgqAIku"[0m,[96m"EAAAQQQqHiBzYWaOZ61h8UKwsqPV65c3BWrmAkWAQQQQACBEgmQ4F4iSJpBAAEEE"[0m,[96m"EAAAQQQQACBsgqItf9b1g4G0rjIejdD00BWYVkEEEAAAQQQQAABBBBAAAEEEEAAg"[0m,[96m"secret"[0m,[96m"EAAAQQQQAABBBCIk4AnXtP2QhTxidra1C3xiZZIEUAAAQQQGLwACe6Dt2NNBBBAA"[0m,[96m"EAAAQQQQKC0AuNmzUrXTz7jvPrJM9akrPm18cyxpe0h3NZE5DuPPtjySrhR0DsCC"[0m,[96m"EAAAQQQQAABBBAor8C4WbPSsrUwVyuil7ejUrYu0t7edve6UjZJWwgggAACCERVg"[0m,[96m"EAAAQQQQACBQQiQ4D4INFZBAAEEEEAAgcAF6ifPvMpa84XAOx5qhyK9KWuOeWh5y"[0m]
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.vps.net
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.vps.net
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.midphase.com
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.midphase.com
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.uk2.net
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.uk2.net
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.westhost.com
+[[92mbasic-cors-misconfig[0m] [[94mhttp[0m] [[33mmedium[0m] https://status.westhost.com
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.ams.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.dc5.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.fr7.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.frk.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.slc.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.dc5.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.ams.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.tyo.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.fr7.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor01.tyo.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://returns.matalan.co.uk/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.frk.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://pingmonitor02.slc.hosting.thg.com/magnoliaAuthor/.magnolia/admincentral
+[[92mCVE-2022-33098[0m] [[94mhttp[0m] [[33mmedium[0m] https://tracking.matalan.co.uk/magnoliaAuthor/.magnolia/admincentral
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] archlinux.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.cpan.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dev.cpan.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] chimera.dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] debian.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] hirensbootcd.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] dave.chimera.dev.nreleases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] libreelec.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] kernel.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] ncpan.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] narchlinux.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] nubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] manjaro.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] releases.ubuntu.mirrors.uk2.net:21
+[[92mftp-anonymous-login[0m] [[94mtcp[0m] [[33mmedium[0m] security.debian.mirrors.uk2.net:21

